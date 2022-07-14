@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
